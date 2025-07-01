@@ -1,18 +1,26 @@
+# 🕸️ The Amazing Spider-Man 2 - Landing Page
 
-<a href="https://youtu.be/ukMPKm3cLns?si=4My0MgQvuzVTkHGN" target="_blank">
-  <img src="./img/thumbnail.png" alt="Thumbnail"/>
-</a>
+Welcome to the **Amazing Spider-Man 2** fan-made landing page — a high-impact, interactive, and responsive website designed to showcase a conceptual Spider-Man-themed game. Built entirely using **HTML**, **CSS**, and **JavaScript**, this project captures the spirit of the Spider-Verse in a sleek, cinematic layout.
 
-
----
-## Introduction: 
-#### 🚀 Build a Modern Gaming Website with HTML , CSS and JS 🌟
-
-#### Unleash your creativity and build an Awwwards-Winning Gaming Website using just HTML, CSS, and JavaScript! This step-by-step tutorial will guide you through crafting a modern web design that captivates with scroll animations, parallax effects, and smooth scrolling. Master CSS Grid and Flexbox to create a responsive layout, while integrating stunning text gradients, hover effects, and neon aesthetics for that perfect dark theme. Learn how to optimize animation keyframes, add interactive elements, and implement CSS transitions for a seamless user experience (UX). With tips on media queries, cross-browser compatibility, and SEO optimization, you’ll craft a visually stunning, minimalist UI inspired by Awwwards standards. Whether you're showcasing a gaming portfolio or exploring creative coding, this tutorial is your gateway to modern web development success!
-
+> 🔗 **Live Site**: [https://spiderman-landing-page.onrender.com](https://spiderman-landing-page.onrender.com)
 
 ---
-## Watch the full tutorial on YouTub
-<a href="https://youtu.be/ukMPKm3cLns?si=4My0MgQvuzVTkHGN">
-  <img src="./img/youtube-ligo.png" alt="youtube"/>
-</a>
+
+## 🚀 Features
+
+- 🎥 **Cinematic Hero Section** – Video background with trailer button
+- 🕷️ **Spider-Verse Style Design** – Inspired by the iconic Spider-Man universe
+- 📱 **Responsive Layout** – Optimized for all devices
+- 🧩 **Modular Sections** – About, Features, Join Us, Contact, and more
+- 🔗 **Social Media Footer** – Quick access to socials
+
+---
+
+## 🌐 Tech Stack
+
+- **HTML5** – Structured markup
+- **CSS3** – Responsive styling and layout
+- **JavaScript** – Basic interaction
+- **Render** – Static hosting platform
+
+
